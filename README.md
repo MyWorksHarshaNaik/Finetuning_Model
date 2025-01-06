@@ -4,10 +4,10 @@
 
 Folder Structure:
 
-Finetune_Model
+Finetune_Model                                                                                                                                                                                                         
 |--- dataset                                                                                                                                                                                                           
 |     |--- UTKFace.zip                                                                                                                                                                                                 
-|--- Experiments
+|--- Experiments                                                                                                          
 |     |--- FineTune_for_age_detection_VGG16.ipynb
 |     |--- Prediction_Using_Trained_Model.ipynb
 |--- models
