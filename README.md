@@ -17,4 +17,4 @@ Finetune_Model
 
 Dataset link : [ https://drive.google.com/file/d/1KRzZ0TMhxLQru0WJGqmFLyGBor6mhkzW/view?usp=sharing ]
 
-Model Link: [ https://drive.google.com/file/d/1hUgulk98lDHKfAX-nyiwMjhAYZJ0ci3z/view?usp=sharing ]
+Model Link: [https://drive.google.com/file/d/1A1eEOO0bELQtwoVwA1OLbcLc2zMDA3Ad/view?usp=sharing]
